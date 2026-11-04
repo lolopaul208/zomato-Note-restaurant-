@@ -1,6 +1,6 @@
 # What drives a restaurant's rating on Zomato? Delhi NCR
 
-Data analysis project by **Atsou Paul LOLO** · [Portfolio](https://paul-lolo.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/paul-lolo-960610234/)
+Data analysis project by **Atsou Paul LOLO** · [Portfolio](https://lolopaul.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/paul-lolo-960610234/)
 
 **Business question:** for a restaurant owner, an investor or Zomato's sales team, which factors (price, cuisine, location, online delivery, table booking) go with a better rating and more visibility?
 
